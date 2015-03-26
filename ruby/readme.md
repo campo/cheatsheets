@@ -19,7 +19,9 @@ foo = "bar"
 => "bar"
 ```
 
-### Arrays (<a href="http://ruby-doc.org/core-2.2.0/Array.html" target="_blank">Documentation</a>)
+### Arrays
+<a href="http://ruby-doc.org/core-2.2.0/Array.html" target="_blank">Documentation</a>
+
 Declare an empty array
 ```ruby
 arr = []
@@ -61,7 +63,9 @@ Pretty-print an array
 => nil
 ```
 
-### Hashes (<a href="http://ruby-doc.org/core-2.2.0/Hash.html" target="_blank">Documentation</a>)
+### Hashes
+<a href="http://ruby-doc.org/core-2.2.0/Hash.html" target="_blank">Documentation</a>
+
 Declare an empty hash
 ```ruby
 h = {}
@@ -86,7 +90,9 @@ Add to a hash
 => {"a"=>"alpha", "b"=>"bravo", "c"=>"charlie", "d"=>"delta"}
 ```
 
-### Strings (<a href="http://ruby-doc.org/core-2.2.0/String.html" target="_blank">Documentation</a>)
+### Strings
+<a href="http://ruby-doc.org/core-2.2.0/String.html" target="_blank">Documentation</a>
+
 Get the length of a string
 ```ruby
 > s = "hello"
