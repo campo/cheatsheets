@@ -1,5 +1,14 @@
 ## Ruby Cheat Sheet
 
+### Contents
+- [Variables](#variables)
+- [Arrays](#arrays)
+- [Hashes](#hashes)
+- [Strings](#strings)
+- [Functions](#variables)
+- [Classes](#classes)
+- [Debugging](#debugging)
+
 ### Variables
 Declare a variable
 ```ruby
