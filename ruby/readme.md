@@ -5,7 +5,7 @@
 - [Arrays](#arrays)
 - [Hashes](#hashes)
 - [Strings](#strings)
-- [Functions](#variables)
+- [Functions](#functions)
 - [Classes](#classes)
 - [Debugging](#debugging)
 
