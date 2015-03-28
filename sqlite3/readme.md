@@ -31,10 +31,10 @@ SELECT * FROM table_name WHERE id = 9;
 
 #### Add a Column to a Table
 ```
-ALTER table_name ADD new_column_name new_column_type;
+ALTER TABLE table_name ADD new_column_name new_column_type;
 ```
 ```
-ALTER people ADD nickname text;
+ALTER TABLE people ADD nickname text;
 ```
 
 #### Update a Record
